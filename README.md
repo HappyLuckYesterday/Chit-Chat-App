@@ -1,7 +1,7 @@
 
 # Chit Chat App
 
-Chit Chat is a basic chat Application that is build using the NodeJS, ExpressJS, Socket.io.
+Chit Chat is a basic real-time chat Application that is build using the NodeJS, ExpressJS, Socket.io.
 
 
 
